@@ -1,6 +1,6 @@
 # Fractale
 
-Ce projet permet de réaliser et explorer des ensembles de Mandelbrot et ensembles de Julia
+Ce projet permet de réaliser et explorer des ensembles de Mandelbrot et ensembles de Julia, pour différentes suites
 
 Exemple de résultat :
 
